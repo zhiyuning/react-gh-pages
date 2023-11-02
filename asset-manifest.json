@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.fe927caf.css",
+    "main.js": "/react-gh-pages/static/js/main.48f423b1.js",
+    "static/js/787.4b24f717.chunk.js": "/react-gh-pages/static/js/787.4b24f717.chunk.js",
+    "static/media/zhiyuning.png": "/react-gh-pages/static/media/zhiyuning.305e36820d59fbecff39.png",
+    "static/media/resume.pdf": "/react-gh-pages/static/media/resume.0fd76dcd5d4f08fd56ad.pdf",
+    "static/media/Guitar.jpg": "/react-gh-pages/static/media/Guitar.2b1ca906371ec7c85f8f.jpg",
+    "static/media/ba_logo.png": "/react-gh-pages/static/media/ba_logo.a56f2ff91831d704973f.png",
+    "static/media/logitech.png": "/react-gh-pages/static/media/logitech.473be7d2b93304002819.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.fe927caf.css.map": "/react-gh-pages/static/css/main.fe927caf.css.map",
+    "main.48f423b1.js.map": "/react-gh-pages/static/js/main.48f423b1.js.map",
+    "787.4b24f717.chunk.js.map": "/react-gh-pages/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.48f423b1.js"
+  ]
+}
